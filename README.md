@@ -1,4 +1,4 @@
-<!-- Place this file at the root of the praabindhp/praabindhp repository. -->
+<!-- Place this file at the root of the praabindh-ati/praabindh-ati repository. -->
 <!-- Keep github-profile-assets/praabindh-cover.svg beside it using the included folder structure. -->
 
 <div align="center">
@@ -17,8 +17,8 @@
   <br />
   <a href="https://www.linkedin.com/in/praabindh-pradeep-87354b1ba/"><img src="https://img.shields.io/badge/LinkedIn-Praabindh_Pradeep-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:praabindhp@gmail.com"><img src="https://img.shields.io/badge/Email-praabindhp%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/praabindhp"><img src="https://img.shields.io/badge/GitHub-%40praabindhp-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=praabindhp&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/praabindh-ati"><img src="https://img.shields.io/badge/GitHub-%40praabindh--ati-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=praabindh-ati&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
 </div>
 
 ---
@@ -65,7 +65,7 @@
   <tbody>
     <tr>
       <td width="16%" align="left"><code>NOW</code></td>
-      <td width="84%" align="left"><strong>ATI Robotics — Full Stack Engineer</strong><br/>Building across frontend, backend, platform, and product concerns.</td>
+      <td width="84%" align="left"><strong>ATI Robotics — Full Stack Engineer</strong><br/>Building scalable products end to end across polished interfaces, resilient services, cloud platforms, and intelligent automation.</td>
     </tr>
     <tr>
       <td width="16%" align="left"><code>PREVIOUS</code></td>
@@ -102,7 +102,7 @@
       <h3>🏆 Project VASTAVIK</h3>
       Smart India Hackathon 2022 winning project focused on meaningful real-world problem solving through collaborative engineering.
       <br/><br/>
-      <a href="https://github.com/praabindhp/Project-Vastavik-Light">Explore the repository →</a>
+      <a href="https://github.com/praabindh-ati/Project-Vastavik-Light">Explore the repository →</a>
     </td>
   </tr>
 </table>
@@ -152,16 +152,16 @@
 <h2 align="center">GitHub activity</h2>
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praabindhp&theme=tokyonight" alt="Praabindh's GitHub contribution profile" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praabindh-ati&theme=tokyonight" alt="Praabindh's GitHub contribution profile" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praabindhp&theme=tokyonight" alt="Praabindh's GitHub statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praabindhp&theme=tokyonight" alt="Praabindh's most-used commit languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=praabindh-ati&theme=tokyonight" alt="Praabindh's GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praabindh-ati&theme=tokyonight" alt="Praabindh's most-used commit languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=praabindhp&theme=tokyonight&hide_border=true&border_radius=12" alt="Praabindh's GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=praabindh-ati&theme=tokyonight&hide_border=true&border_radius=12" alt="Praabindh's GitHub contribution streak" />
 </div>
 
 <h2 align="center">Languages</h2>
