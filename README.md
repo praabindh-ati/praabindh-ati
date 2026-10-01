@@ -18,7 +18,6 @@
   <a href="https://www.linkedin.com/in/praabindh-pradeep-87354b1ba/"><img src="https://img.shields.io/badge/LinkedIn-Praabindh_Pradeep-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:praabindhp@gmail.com"><img src="https://img.shields.io/badge/Email-praabindhp%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/praabindh-ati"><img src="https://img.shields.io/badge/GitHub-%40praabindh--ati-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=praabindh-ati&label=PROFILE+VIEWS&color=7c3aed&style=flat-square" alt="Profile views" />
 </div>
 
 ---
